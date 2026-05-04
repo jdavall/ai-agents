@@ -1,0 +1,162 @@
+[
+  {
+    "id": "advent",
+    "title": "Advent Celebration",
+    "archived": false,
+    "season": "Advent",
+    "date": "2026-11-29",
+    "coordinator": "Worship Ministry",
+    "category": "Worship",
+    "budget": "600",
+    "theme": "Prepare the way of the Lord",
+    "notes": "Plan scripture readings, candles, choir specials, and foyer decor.",
+    "volunteers": "Advent Readers\nChoir Team\nDecorating Team",
+    "supplies": "Advent wreath\nCandles\nBulletin inserts",
+    "checklist": [
+      {
+        "label": "Confirm theme and scripture focus",
+        "done": true
+      },
+      {
+        "label": "Schedule readers and worship leaders",
+        "done": false
+      },
+      {
+        "label": "Prepare decorations and foyer welcome table",
+        "done": false
+      },
+      {
+        "label": "Promote service dates to congregation",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "christmas",
+    "title": "Christmas Program",
+    "archived": true,
+    "season": "Christmas",
+    "date": "2026-12-20",
+    "coordinator": "Children's Ministry",
+    "category": "Family",
+    "budget": "1200",
+    "theme": "Joy to the World",
+    "notes": "Coordinate rehearsals early and confirm nativity costumes.",
+    "volunteers": "Children's Teachers\nStage Helpers\nHospitality Team",
+    "supplies": "Costumes\nPrograms\nRefreshments",
+    "checklist": [
+      {
+        "label": "Choose program order and participants",
+        "done": true
+      },
+      {
+        "label": "Arrange rehearsals and sound checks",
+        "done": false
+      },
+      {
+        "label": "Organize refreshments and seating",
+        "done": false
+      },
+      {
+        "label": "Assign photographers and welcome team",
+        "done": false
+      }
+    ]
+  },
+  {
+    "id": "lent",
+    "title": "Lenten Prayer Gathering",
+    "archived": false,
+    "season": "Lent",
+    "date": "2026-02-18",
+    "coordinator": "Prayer Team",
+    "category": "Prayer",
+    "budget": "250",
+    "theme": "Return to the Lord",
+    "notes": "Consider weekly prayer guides and small-group reflection prompts.",
+    "volunteers": "Prayer Leaders\nGreeters",
+    "supplies": "Prayer guides\nCommunion supplies\nSignage",
+    "checklist": [
+      {
+        "label": "Finalize prayer format and teaching plan",
+        "done": true
+      },
+      {
+        "label": "Prepare prayer guide handouts",
+        "done": false
+      },
+      {
+        "label": "Invite ministry leaders to participate",
+        "done": false
+      },
+      {
+        "label": "Set up prayer stations",
+        "done": false
+      }
+    ]
+  },
+  {
+    "id": "easter",
+    "title": "Easter Sunday Service",
+    "archived": true,
+    "season": "Easter",
+    "date": "2026-04-05",
+    "coordinator": "Senior Pastor",
+    "category": "Worship",
+    "budget": "1800",
+    "theme": "He Is Risen",
+    "notes": "Coordinate overflow seating, parking, and follow-up for guests.",
+    "volunteers": "Greeters\nParking Team\nChoir\nFollow-up Team",
+    "supplies": "Flower cross\nGuest cards\nCommunion elements",
+    "checklist": [
+      {
+        "label": "Confirm sermon series and worship flow",
+        "done": true
+      },
+      {
+        "label": "Recruit extra greeters and parking team",
+        "done": true
+      },
+      {
+        "label": "Prepare guest follow-up system",
+        "done": false
+      },
+      {
+        "label": "Finalize decorations and communion setup",
+        "done": false
+      }
+    ]
+  },
+  {
+    "id": "pentecost-sunday-1777839886039",
+    "title": "Pentecost Sunday",
+    "archived": false,
+    "season": "Special Event",
+    "date": "2026-05-26",
+    "coordinator": "Joey and lisa Davall",
+    "category": "Fellowship",
+    "budget": "",
+    "theme": "Maybe a birthday themed, something birthdayish at the tables, like hats, confettii maybe balloons",
+    "notes": "Birthday Celebration themed\nFood fried Chicken\nsign to bring dishes and cassaroles \nTalk to Pam Garrette",
+    "volunteers": "",
+    "supplies": "",
+    "checklist": [
+      {
+        "label": "Confirm date and venue",
+        "done": true
+      },
+      {
+        "label": "Assign coordinator and ministry team",
+        "done": true
+      },
+      {
+        "label": "Prepare supplies and communications",
+        "done": false
+      },
+      {
+        "label": "Review final setup and day-of schedule",
+        "done": false
+      }
+    ]
+  }
+]
